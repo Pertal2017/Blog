@@ -10,7 +10,7 @@ tags:
   - - SourceTree
   - - Github
 summary: 这是一篇关于如何图形化(命令化暂时没补充)的教程，教你如何使用Git连接远程的Github仓库。
-categories: uncategorized
+categories: 教程
 abbrlink: ab8e450c
 date: 2020-07-11 08:51:11
 password:
