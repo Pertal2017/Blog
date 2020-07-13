@@ -596,4 +596,4 @@ clicktext:
   enable: true
 #鼠标星星特效
 cursor:
-  enable: true
+  enable: false
