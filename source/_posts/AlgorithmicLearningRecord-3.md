@@ -1,5 +1,5 @@
 ---
-title: AlgorithmicLearningRecord-3
+title: 算法学习记录-3
 author: Pertal
 top: false
 cover: false
