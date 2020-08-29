@@ -6,14 +6,14 @@ cover: false
 toc: true
 mathjax: true
 tags:
-  - [线性表]
-  - [学习]
+  - - 线性表
+  - - 学习
 categories:
   - 算法与数据结构
+summary: 今天主要学习了《大话数据结构》中的线性表的一部分，每天进步一点点，相信暑假这一块我能懂得更多。
+abbrlink: a62b3f21
 date: 2020-07-24 18:54:31
 password:
-summary: 今天主要学习了《大话数据结构》中的线性表的一部分，每天进步一点点，相信暑假这一块我能懂得更多。
-abbrlink:
 ---
 
 #  前言
